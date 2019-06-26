@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-# Use case title
-
 Application Domain: (e.g. cloud gaming)
 
 ## Description

@@ -12,7 +12,7 @@ Application Domain: (e.g. cloud gaming)
 ## Description
 Details about use-case
 
-## Example
+## Example
 Application of use-case in any product segment
 
 ## Requirements

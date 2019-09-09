@@ -5,13 +5,21 @@ Tuesday September 17 2019
 * 08:30-09:00: Assemble, Logistics setup
 * 09:00-09:30: Introductions, share meeting Agenda, Expectations from meeting.
 * 09:30-10:30: Backgrounder on existing W3C networks intersections [Dom] (with references to use cases)
+  - Topic: Why Web Apps should leverage insights from Networks?
+  - Topic: From Web5G to Web & Networks IG and beyond
 * 10:30-11:00: Break
 * 11:00-11:45: Guiding Principles for Web & Networks Solutions [Dan Druta]
+  - Topic: Network hints examples - a few good and bad examples 
 * 11:45-12:30: Liaisons [Xu Song]
+  - Topic: Overview of adjacent work in W3C and other standardization bodies
+  - Topic: Liaisons engagements - Today and beyond
 * 12:30-14:00: Lunch
 * 14:00-15:30: Network Link Prediction [Jonas Svennebring]
+  - Topic: Value proposition of Link Prediction for Web Apps. A few good use-cases. [slides](https://github.com/w3c/web-networks/files/3554137/Intel.LPP.-.W3C.Web.n.Networking.IG.r1.0.pdf)
+  - Demo: The benefits of Link Performance Prediction for mobile gaming
 * 15:30-16:00: Break
 * 16:00-17:00: [Use case review](https://github.com/w3c/web-networks/issues?q=is%3Aissue+is%3Aopen+label%3A%22use+case%22) [All]
+  - Topic: Brainstorm use-cases and requirements
 
 ## IRC Notes
 

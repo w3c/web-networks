@@ -8,9 +8,9 @@ Tuesday September 17 2019
   - Topic: Why Web Apps should leverage insights from Networks?
   - Topic: From Web5G to Web & Networks IG and beyond
 * 10:30-11:00: Break
-* 11:00-11:45: Guiding Principles for Web & Networks Solutions [Dan Druta]
-  - Topic: Network hints examples - a few good and bad examples 
-* 11:45-12:30: Liaisons [Xu Song]
+* 11:00-11:45: [Guiding Principles for Web & Networks Solutions](http://www.w3.org/2019/09/17-web-networks-druta-hints.pdf) [Dan Druta]
+  - Topic: Network hints examples - a few good and bad examples
+* 11:45-12:30: [Liaisons](https://www.w3.org/2019/09/17-web-networks-song-tpac.pdf) [Xu Song]
   - Topic: Overview of adjacent work in W3C and other standardization bodies
   - Topic: Liaisons engagements - Today and beyond
 * 12:30-14:00: Lunch

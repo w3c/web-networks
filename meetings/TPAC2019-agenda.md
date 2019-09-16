@@ -3,7 +3,7 @@ Tuesday September 17 2019
 
 ## Agenda
 * 08:30-09:00: Assemble, Logistics setup
-* 09:00-09:30: Introductions, share meeting Agenda, Expectations from meeting.
+* 09:00-09:30: Introductions, share meeting Agenda, Expectations from meeting [slides](https://www.w3.org/2019/09/17-web-networks-sudeep.pdf).
 * 09:30-10:30: [Backgrounder on existing W3C networks intersections](http://www.w3.org/2019/Talks/dhm-w3c-networks/) [Dom] (with references to use cases)
   - Topic: Why Web Apps should leverage insights from Networks?
   - Topic: From Web5G to Web & Networks IG and beyond

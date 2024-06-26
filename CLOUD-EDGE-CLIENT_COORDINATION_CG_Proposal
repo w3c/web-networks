@@ -7,5 +7,5 @@ The typical use cases include AI acceleration, cloud gaming, streaming accelerat
 that enable computing workload offloading and orchestration between Central Cloud, Edge Cloud, and Client. It should leverage existing mechanisms as much as possible 
 and should coordinate with related W3C working groups and other SDOs and open-source communities if necessary.
 
-3、Short name
+3. Short name
 CloudEdge

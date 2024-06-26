@@ -11,12 +11,10 @@
 The mission of this group is to provide mechanisms and interfaces between Central Cloud, Edge-Cloud, and Client for computing workload offloading and orchestration. The typical use cases include AI acceleration, cloud gaming, streaming acceleration, etc. The goal is to design a set of new APIs and mechanisms that enable computing workload offloading and orchestration between Central Cloud, Edge Cloud, and Client. It should leverage existing mechanisms as much as possible and should coordinate with related W3C working groups and other SDOs and open-source communities if necessary.
 
 ## Scope of Work
-*{TBD: Describe topics that are in scope. For specifications that the CLA patent section applies to, it is helpful to describe the scope in a way that it is clear what types of technologies will be defined in specifications, as opposed to adoption by reference or underlying technology not defined in the proposed spec. Key use cases are often helpful in describing scope. If no specifications will be defined in the group that the CLA patent section applies to, the charter should clearly state that. A clear scope is particularly important where patent licensing obligations may apply.}*
-
 This group aims to discuss proposals for Client-Edge-Cloud coordination, including:
-- Use cases and requirements for Client-Edge-Cloud coordination
-- Proposals for APIs and mechanisms that enable computing workload offloading and orchestration between Central Cloud, Edge Cloud, and Client
-- Secure networking and trust model requirements in the context of edge computing and offload to edge.
+* Use cases and requirements for Client-Edge-Cloud coordination
+* Proposals for APIs and mechanisms that enable computing workload offloading and orchestration between Central Cloud, Edge Cloud, and Client
+* Secure networking and trust model requirements in the context of edge computing and offload to edge.
 
 ## Out of Scope
 The following are out of scope:
@@ -27,8 +25,8 @@ The following are out of scope:
 
 The Group will have succeeded if it can achieve the following:
 
-- Participation from various stakeholder communities, especially from startup, innovators in the space of distributed computing;
-- A standard solution architecture for workload offloading.
+* Participation from various stakeholder communities, especially from startup, innovators in the space of distributed computing;
+* A standard solution architecture for workload offloading.
 
 ## Deliverables
 

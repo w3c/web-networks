@@ -1,4 +1,4 @@
-## {Draft} : CLOUD-EDGE-CLIENT COORDINATION COMMUNITY GROUP 
+## {Draft} : CLOUD-EDGE-CLIENT COORDINATION COMMUNITY GROUP
 
 ## Short name: CloudEdge
 
@@ -13,7 +13,7 @@ The mission of this group is to provide mechanisms and interfaces between Centra
 ## Scope of Work
 This group aims to discuss proposals for Client-Edge-Cloud coordination, including:
 * Use cases and requirements for Client-Edge-Cloud coordination
-* Proposals for APIs and mechanisms that enable computing workload offloading and orchestration between Central Cloud, Edge Cloud, and Client
+* Proposal, design, and incubation of APIs and mechanisms that enable computing workload offloading and orchestration between Central Cloud, Edge Cloud, and Client.
 * Secure networking and trust model requirements in the context of edge computing and offload to edge.
 
 ## Out of Scope

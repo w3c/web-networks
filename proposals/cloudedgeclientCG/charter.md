@@ -8,11 +8,11 @@
 * Last Modifed: *{TBD: If the system does not automatically provide information about the date of the last modification, it can be useful to include that in the charter.}*
 
 ## Goals
-The mission of this group is to provide mechanisms and interfaces between Central Cloud, Edge-Cloud, and Client for computing workload offloading and orchestration. The typical use cases include AI acceleration, cloud gaming, streaming acceleration, etc. The goal is to design a set of new APIs and mechanisms that enable computing workload offloading and orchestration between Central Cloud, Edge Cloud, and Client. It should leverage existing mechanisms as much as possible and should coordinate with related W3C working groups and other SDOs and open-source communities if necessary.
+The mission of this group is to propose mechanisms and interfaces between Central Cloud, Edge-Cloud, and Client for computing workload offloading and orchestration. The typical use cases include AI acceleration, cloud gaming, streaming acceleration, etc. The goal is to identify and build consensus around the design of a set of new APIs and mechanisms that enable computing workload offloading and orchestration between Central Cloud, Edge Cloud, and Client.  These proposals and designs should leverage existing mechanisms as much as possible and should coordinate with related W3C working groups and other SDOs and open-source communities if necessary.
 
 ## Scope of Work
-This group aims to discuss proposals for Client-Edge-Cloud coordination, including:
-* Use cases and requirements for Client-Edge-Cloud coordination
+This group aims to discuss proposals for Cloud-Edge-Client coordination, including:
+* Use cases and requirements for Cloud-Edge-Client coordination
 * Proposals for APIs and mechanisms that enable computing workload offloading and orchestration between Central Cloud, Edge Cloud, and Client
 * Secure networking and trust model requirements in the context of edge computing and offload to edge.
 
@@ -25,8 +25,8 @@ The following are out of scope:
 
 The Group will have succeeded if it can achieve the following:
 
-* Participation from various stakeholder communities, especially from startup, innovators in the space of distributed computing;
-* A standard solution architecture for workload offloading.
+* Participation from various stakeholder communities, especially from startups and innovators in the space of distributed computing;
+* Consensus on a standard solution architecture for workload offloading.
 
 ## Deliverables
 
@@ -34,12 +34,12 @@ The Group will have succeeded if it can achieve the following:
 No Specifications will be produced under the current charter.
 
 ### Non-Normative Reports
-The group may produce other Community Group Reports within the scope of this charter but that are not Specifications, for instance use cases, requirements, or white papers.
+The group may produce other Community Group Reports within the scope of this charter that are not Specifications, for instance the group may produce use cases, requirements, or white papers.
 
 ### Test Suites and Other Software
 *{TBD: If there are no plans to create a test suite or other software, please state that and remove the following paragraph. If Github is not being used, then indicate where the license information is. If GitHub is being used link to your LICENSE.md file in the next paragraph.}*
 
-The group MAY produce test suites to support the Specifications. Please see the GitHub LICENSE file for test suite contribution licensing information.
+The group MAY produce test suites to support any proposals. Please see the GitHub LICENSE file for test suite contribution licensing information.
 
 ## Dependencies or Liaisons
 *{TBD: List any significant dependencies on other groups (inside or outside W3C) or materials.}*
@@ -52,11 +52,11 @@ As with other Community Groups, W3C seeks organizational licensing commitments u
 The W3C Code of Ethics and Professional Conduct applies to participation in this group.
 
 ## Work Limited to Charter Scope
-The group will not publish Specifications on topics other than those listed under Specifications above. See below for how to modify the charter.
+The group will not publish Deliverables on topics other than those listed under Deliverables above. See below for how to modify the charter.
 
 ## Contribution Mechanics
-Substantive Contributions to Specifications can only be made by Community Group Participants who have agreed to the W3C Community Contributor License Agreement (CLA).
-Specifications created in the Community Group must use the W3C Software and Document License. All other documents produced by the group should use that License where possible.
+Substantive Contributions to Deliverables can only be made by Community Group Participants who have agreed to the W3C Community Contributor License Agreement (CLA).
+All documents created in the Community Group should use the W3C Software and Document License where possible.
 
 *{TBD: if CG doesn't use GitHub replace the remaining paragraphs in this section with: "All Contributions are made on the groups public mail list or public contrib list"}*
 
@@ -65,9 +65,9 @@ Community Group participants agree to make all contributions in the GitHub repo 
 All Github repositories attached to the Community Group must contain a copy of the CONTRIBUTING and LICENSE files.
 
 ## Transparency
-The group will conduct all of its technical work in public. If the group uses GitHub, all technical work will occur in its GitHub repositories (and not in mailing list discussions). This is to ensure contributions can be tracked through a software tool.
+The group will conduct all of its technical work in public. All technical work will occur in its GitHub repositories (and not in mailing list discussions). This is to ensure contributions can be tracked through a software tool.
 
-Meetings may be restricted to Community Group participants, but a public summary or minutes must be posted to the group's public mailing list, or to a GitHub issue if the group uses GitHub.
+Meetings may be restricted to Community Group participants, but a public summary or minutes must be posted to the group's public mailing list, or to a GitHub issue.
 
 ## Decision Process
 If the decision policy is documented somewhere, update this section accordingly to link to it.

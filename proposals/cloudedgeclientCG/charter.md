@@ -15,8 +15,8 @@ that enable computing workload offloading and orchestration between Central Clou
 and should coordinate with related W3C working groups and other SDOs and open-source communities if necessary.
 
 ## Scope of Work
-This group aims to discuss proposals for Client-Edge-Cloud coordination, including:
-* Use cases and requirements for Client-Edge-Cloud coordination
+This group aims to discuss proposals for Cloud-Edge-Client coordination, including:
+* Use cases and requirements for Cloud-Edge-Client coordination
 * Proposals for APIs and mechanisms that enable computing workload offloading and orchestration between Central Cloud, Edge Cloud, and Client
 * Secure networking and trust model requirements in the context of edge computing and offload to edge.
 
@@ -29,8 +29,8 @@ The following are out of scope:
 
 The Group will have succeeded if it can achieve the following:
 
-* Participation from various stakeholder communities, especially from startup, innovators in the space of distributed computing;
-* A standard solution architecture for workload offloading.
+* Participation from various stakeholder communities, especially from startups and innovators in the space of distributed computing;
+* Consensus on a standard solution architecture for workload offloading.
 
 ## Deliverables
 
@@ -38,7 +38,7 @@ The Group will have succeeded if it can achieve the following:
 No Specifications will be produced under the current charter.
 
 ### Non-Normative Reports
-The group may produce other Community Group Reports within the scope of this charter but that are not Specifications, for instance use cases, requirements, or white papers.
+The group may produce other Community Group Reports within the scope of this charter that are not Specifications, for instance use cases, requirements, or white papers.
 
 ### Test Suites and Other Software
 *{TBD: If there are no plans to create a test suite or other software, please state that and remove the following paragraph. If Github is not being used, then indicate where the license information is. If GitHub is being used link to your LICENSE.md file in the next paragraph.}*

@@ -38,7 +38,7 @@ The Group will have succeeded if it can achieve the following:
 No Specifications will be produced under the current charter.
 
 ### Non-Normative Reports
-The group may produce other Community Group Reports within the scope of this charter that are not Specifications, for instance use cases, requirements, and white papers.
+The group may produce other Community Group Reports within the scope of this charter that are not Specifications, for instance use cases, requirements, or white papers.
 
 ### Test Suites and Other Software
 *{TBD: If there are no plans to create a test suite or other software, please state that and remove the following paragraph. If Github is not being used, then indicate where the license information is. If GitHub is being used link to your LICENSE.md file in the next paragraph.}*

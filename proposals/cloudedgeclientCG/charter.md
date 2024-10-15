@@ -9,15 +9,15 @@
 
 ## Goals
 
-The mission of this group is to explore mechanisms and interfaces between Central Cloud, Edge-Cloud, and Client for computing workload offloading and orchestration. 
+The mission of this group is to explore mechanisms and interfaces between Cloud, Edge, and Client for computing workload offloading and orchestration. 
 The typical use cases include AI acceleration, cloud gaming, and streaming acceleration. The goal is to explore the feasibility of defining a set of new APIs and mechanisms 
-that enable computing workload offloading and orchestration between Central Cloud, Edge Cloud, and Client. It should leverage existing mechanisms as much as possible 
+that enable computing workload offloading and orchestration between Cloud, Edge, and Client. It should leverage existing mechanisms as much as possible 
 and should coordinate with related W3C working groups and other SDOs and open-source communities if necessary.
 
 ## Scope of Work
 This group aims to discuss proposals for Cloud-Edge-Client coordination, including:
 * Use cases and requirements for Cloud-Edge-Client coordination
-* Proposals for APIs and mechanisms that enable computing workload offloading and orchestration between Central Cloud, Edge Cloud, and Client
+* Proposals for APIs and mechanisms that enable computing workload offloading and orchestration between Cloud, Edge, and Client
 * Secure networking and trust model requirements in the context of edge computing and offload to edge.
 
 ## Out of Scope

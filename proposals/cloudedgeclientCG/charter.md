@@ -17,7 +17,7 @@ and should coordinate with related W3C working groups and other SDOs and open-so
 ## Scope of Work
 This group aims to discuss proposals for Cloud-Edge-Client coordination, including:
 * Use cases and requirements for Cloud-Edge-Client coordination
-* Proposals for APIs and mechanisms that enable computing workload offloading and orchestration between Cloud, Edge, and Client
+* Proposals for APIs and mechanisms (including protocols) that enable computing workload offloading and orchestration between Cloud, Edge, and Client
 * Secure networking and trust model requirements in the context of edge computing and offload to edge.
 
 ## Out of Scope
@@ -35,7 +35,7 @@ The Group will have succeeded if it can achieve the following:
 ## Deliverables
 
 ### Specifications
-No Specifications will be produced under the current charter.
+* Specifications (API, protocol design etc.) will be produced under the current charter.
 
 ### Non-Normative Reports
 The group may produce other Community Group Reports within the scope of this charter that are not Specifications, for instance use cases, requirements, or white papers.

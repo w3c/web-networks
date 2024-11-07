@@ -35,7 +35,7 @@ The Group will have succeeded if it can achieve the following:
 ## Deliverables
 
 ### Specifications
-* Specifications (API, protocol design etc.) will be produced under the current charter.
+* Specifications (API, protocol design etc.) may be produced under the current charter.
 
 ### Non-Normative Reports
 The group may produce other Community Group Reports within the scope of this charter that are not Specifications, for instance use cases, requirements, or white papers.

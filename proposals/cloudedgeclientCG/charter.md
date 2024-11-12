@@ -41,18 +41,16 @@ Newly-accepted work items that extend beyond the scope of this Community Group C
 The Community Group may vote to revise the Charter in order to include new work, or to determine that the proposed work is unrelated.
 
 ### Specifications
-* The group may produce Specifications that are not on the W3C Standards track. Development of W3C Standards should be done in appropriate Working Groups.
+The group may produce Specifications that are not on the W3C Standards track. Development of W3C Standards should be done in appropriate Working Groups.
 
 ### Non-Normative Reports
 The group may produce other Community Group Reports within the scope of this charter that are not Specifications, for instance Techinal Reports, Use Cases, Requirements, Primers, White Papers, etc.
 
 ### Test Suites and Other Software
-*{TBD: If there are no plans to create a test suite or other software, please state that and remove the following paragraph. If Github is not being used, then indicate where the license information is. If GitHub is being used link to your LICENSE.md file in the next paragraph.}*
-
 The group MAY produce test suites to support the Specifications. Please see the GitHub LICENSE file for test suite contribution licensing information.
 
 ## Dependencies or Liaisons
-*{TBD: List any significant dependencies on other groups (inside or outside W3C) or materials.}*
+The group may collaborate with other relevant groups within W3C. 
 
 ## Community and Business Group Process
 The group operates under the Community and Business Group Process. Terms in this Charter that conflict with those of the Community and Business Group Process are void.
@@ -67,8 +65,6 @@ The group will not publish Specifications on topics other than those listed unde
 ## Contribution Mechanics
 Substantive Contributions to Specifications can only be made by Community Group Participants who have agreed to the W3C Community Contributor License Agreement (CLA).
 Specifications created in the Community Group must use the W3C Software and Document License. All other documents produced by the group should use that License where possible.
-
-*{TBD: if CG doesn't use GitHub replace the remaining paragraphs in this section with: "All Contributions are made on the groups public mail list or public contrib list"}*
 
 Community Group participants agree to make all contributions in the GitHub repo the group is using for the particular document. This may be in the form of a pull request (preferred), by raising an issue, or by adding a comment to an existing issue.
 

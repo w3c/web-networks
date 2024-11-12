@@ -17,7 +17,7 @@ and should coordinate with related W3C working groups and other SDOs and open-so
 ## Scope of Work
 This group aims to discuss proposals for Cloud-Edge-Client coordination, including:
 * Use cases and requirements for Cloud-Edge-Client coordination
-* Proposals for APIs and mechanisms that enable computing workload offloading and orchestration between Cloud, Edge, and Client
+* Proposals for APIs and mechanisms (including protocols) that enable computing workload offloading and orchestration between Cloud, Edge, and Client
 * Secure networking and trust model requirements in the context of edge computing and offload to edge.
 
 ## Out of Scope
@@ -33,12 +33,18 @@ The Group will have succeeded if it can achieve the following:
 * Consensus on a standard solution architecture for workload offloading.
 
 ## Deliverables
+Work items can be documents, such as specifications, technical reports, best practices and guidelines, use cases and requirements, white papers, etc.
+Work items can also be software, for instance test suites, samples, proof of concept work, etc.
+In general, all work items in scope of the group are welcome. 
+If there are individuals who will commit to being editors for a document, the group should record agreement to accept it as a work item even if it conflicts with previous work adopted by the community. 
+Newly-accepted work items that extend beyond the scope of this Community Group Charter will lead to a reconsideration of the Charter. 
+The Community Group may vote to revise the Charter in order to include new work, or to determine that the proposed work is unrelated.
 
 ### Specifications
-No Specifications will be produced under the current charter.
+* The group may produce Specifications that are not on the W3C Standards track. Development of W3C Standards should be done in appropriate Working Groups.
 
 ### Non-Normative Reports
-The group may produce other Community Group Reports within the scope of this charter that are not Specifications, for instance use cases, requirements, or white papers.
+The group may produce other Community Group Reports within the scope of this charter that are not Specifications, for instance Techinal Reports, Use Cases, Requirements, Primers, White Papers, etc.
 
 ### Test Suites and Other Software
 *{TBD: If there are no plans to create a test suite or other software, please state that and remove the following paragraph. If Github is not being used, then indicate where the license information is. If GitHub is being used link to your LICENSE.md file in the next paragraph.}*
